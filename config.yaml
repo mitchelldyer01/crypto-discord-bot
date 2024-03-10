@@ -1,0 +1,14 @@
+---
+channels_with_coins:
+- channel_id: 827974330666450957
+  coins:
+  - ticker: XD
+    address: 0x3005003BDA885deE7c74182e5FE336e9E3Df87bB
+  - ticker: pepe
+    address: 0x6982508145454ce325ddbe47a25d4ec3d2311933
+- channel_id: 697551357602824312
+  coins:
+  - ticker: XD
+    address: 0x3005003BDA885deE7c74182e5FE336e9E3Df87bB
+  - ticker: pepe
+    address: 0x6982508145454ce325ddbe47a25d4ec3d2311933
