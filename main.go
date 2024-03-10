@@ -110,6 +110,7 @@ func run(path string) error {
 							fmt.Printf("[ERROR]: %s\n", err)
 							return
 						}
+						fmt.Printf("[INFO]: %s\n", msg)
 					}
 				}
 			}
